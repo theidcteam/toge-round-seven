@@ -18,7 +18,7 @@ Open `index.html` for a local preview. For native sharing and clipboard features
 - Walking trails, viewing areas, shuttle buses every 45 minutes, chairs and outdoor footwear, restrooms, parking volunteers, and rain-or-shine guidance.
 - Great Passion Play, 935 Passion Play Road, Eureka Springs, AR 72632. Map link from the event app’s venue address.
 
-The Friday cruise route, exact car-show start/end times, and a separate Friday location were not supplied, so none are invented. No claim is made that parking or shuttles are free. No driver registration or driver pricing appears.
+Friday cruise leaves Great Passion Play at 6 PM for Gaskin Switch, 2039 E Van Buren Ste A, Eureka Springs, AR 72632. Arrival around 6:10 PM; free car show with DJ and food trucks until 8:30 PM, then return cruise to Great Passion Play. Saturday church is at 6 PM under the Christ of the Ozarks statue. Both sections use user-provided photos. No claim is made that parking or shuttles are free. No driver registration or driver pricing appears.
 
 ## Files
 
