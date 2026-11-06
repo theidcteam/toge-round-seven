@@ -1,10 +1,10 @@
-# Tōge spectator campaign page
+# Tōge Round Seven
 
 Vertical, phone-first campaign page for November 20–22, 2026 in Eureka Springs, Arkansas. Based on the existing Reaction Motorsports app’s photography, logos, black background, and Tōge green accents.
 
 ## Standalone GitHub campaign
 
-Publish the contents of this folder at the root of a separate repository named `toge-spectator-weekend`. Enable GitHub Pages from the `main` branch, root folder. No build or installation is required.
+Publish the contents of this folder at the root of a separate repository named `toge-round-seven`. Enable GitHub Pages from the `main` branch, root folder. No build or installation is required.
 
 This is a standalone marketing and feedback site. Do not add it to the live events app repository or the main website navigation. The footer logo links directly to https://reactionmotorsportsevents.com.
 
@@ -27,4 +27,4 @@ The Friday cruise route, exact car-show start/end times, and a separate Friday l
 - `spectators.js`: bottom navigation indicator and sharing
 - SVG and JPG files: original event logos and photography copied from the source app
 
-Standalone campaign repository: https://github.com/theidcteam/toge-spectator-weekend
+Standalone campaign repository: https://github.com/theidcteam/toge-round-seven
