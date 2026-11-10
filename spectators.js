@@ -20,7 +20,7 @@ updateNavigation();
 document.querySelector('#share').addEventListener('click', async () => {
   const status = document.querySelector('#share-status');
   const fallback = document.querySelector('#share-copy');
-  const text = 'Tōge Round Seven • November 20–22, 2026 • Eureka Springs, Arkansas. Friday: cruise leaves Great Passion Play at 6 PM for Gaskin Switch, 2039 E Van Buren Ste A. FREE car show with DJ & food trucks, expected arrival 6:10 PM until 8:30 PM, then cruise back. Saturday & Sunday: mountain drifting, 9 AM–5 PM, at Great Passion Play. Saturday church: 6 PM under the Christ of the Ozarks statue. $10/person/day for Saturday & Sunday drifting at the gate; kids 12 & under FREE. Cash & cards accepted. 935 Passion Play Road, Eureka Springs, AR 72632.';
+  const text = 'Tōge Round Seven • November 20–22, 2026 • Eureka Springs, Arkansas. Friday: cruise leaves Great Passion Play at 6 PM for Gaskin Switch, 2039 E Van Buren Ste A. Drift car meet with the event drivers, live DJ & food trucks, around 6:10–8:30 PM, then cruise back. Free to attend; display cars are limited to event drivers. Saturday & Sunday: mountain drifting, 9 AM–5 PM, at Great Passion Play. Saturday church: 6 PM under the Christ of the Ozarks statue. $10/person/day for Saturday & Sunday drifting at the gate; kids 12 & under FREE. Cash & cards accepted. 935 Passion Play Road, Eureka Springs, AR 72632.';
   const isPreview = ['localhost', '127.0.0.1', ''].includes(location.hostname) || location.protocol === 'file:';
   const url = isPreview ? '' : location.origin + location.pathname;
   const data = { title: 'Tōge Round Seven', text, ...(url ? { url } : {}) };
